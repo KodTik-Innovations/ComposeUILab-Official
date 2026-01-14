@@ -21,18 +21,23 @@ Compose UI Lab is a powerful, lightweight IDE environment designed specifically 
 ### 🎬 App Walkthrough
 Check out the Compose UI Lab in action:
 
+[▶️ Click here to watch the Video Demo](https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenrecorder-2026-01-14-22-35-22-568.mp4)
+
 ### 🖼️ Design Showcase
-| Dashboard UI | Code Editor |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/300x600?text=UI+Preview" width="250"> | <img src="https://via.placeholder.com/300x600?text=Editor+Preview" width="250"> |
+
+| Dashboard | Code Editor | Component Testing |
+| :---: | :---: | :---: |
+| <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-44-47-267_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-44-54-299_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-44-57-878_dn.composeuilab.jpg" width="250"> |
+| <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-45-38-810_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-23-11-55-180_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-23-12-05-681_dn.composeuilab.jpg" width="250"> |
 
 ---
 
 ## 🛠️ Built With
 
-* **Kotlin** - The language of modern Android.
-* **Jetpack Compose** - For declarative UI development.
-* **Material 3** - The next generation of Material Design.
+* ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) **Kotlin** - The language of modern Android.
+* ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) **Jetpack Compose** - For declarative UI development.
+* ![Material3](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white) **Material 3** - The next generation of Material Design.
+
 ---
 
 ## 🚀 How to Use
@@ -45,7 +50,7 @@ Check out the Compose UI Lab in action:
 
 ## 🤝 Contributing
 
-We welcome contributions! If you have ideas for new features or improvements:
+We welcome contributions! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
 
 ---
 
