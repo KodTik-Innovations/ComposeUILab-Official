@@ -2,17 +2,33 @@
 
 **Developed by KodTik-Innovations**
 
-Compose UI Lab is a powerful, lightweight IDE environment designed specifically for Android developers to experiment, prototype, and build **Jetpack Compose** interfaces on the go. Stop waiting for heavy builds and start visualizing your UI instantly.
+![Status](https://img.shields.io/badge/Status-Alpha%20%2F%20Experimental-red?style=for-the-badge)
+
+Compose UI Lab is a **comprehensive, feature-rich** standalone IDE environment designed specifically for Android developers to experiment, prototype, and build **Jetpack Compose** interfaces directly on their mobile devices. It comes packed with the necessary compiler libs and classpaths to ensure a robust development experience without needing a PC.
+
+---
+
+## ⚠️ Experimental Disclaimer
+
+Please note that this project is currently in an **Alpha / Development state**. 
+* **Stability:** You may encounter bugs, unexpected crashes, or rendering errors.
+* **Compatibility:** It may not be compatible with all devices or Android versions.
+* **Size Note:** Due to the inclusion of internal compiler libraries and JARs (~120MB APK), ensure you have sufficient storage space.
+
+### 📱 Tested Compatibility
+* **Device:** Redmi K50i
+* **OS:** Android 14
+* **Status:** Verified Stable on this configuration. 
 
 ---
 
 ## ✨ Features
 
 * **Instant Preview:** Write Compose code and see the UI render in real-time.
+* **Full-Stack Environment:** Includes necessary JARs and classpaths to handle Compose compilation on-device.
 * **Material 3 Integration:** Built-in support for the latest Material Design components.
 * **Dynamic Theme Support:** Easily switch between Dark and Light modes to test contrast.
-* **Mobile-First IDE:** Optimized for coding and testing directly on Android devices.
-* **Code Playground:** A dedicated space to test complex animations and layouts.
+* **Mobile-First IDE:** Optimized for coding and testing directly on Android hardware.
 
 ---
 
@@ -25,7 +41,7 @@ Check out the Compose UI Lab in action:
 
 ### 🖼️ Design Showcase
 
-| Dashboard | Code Editor | Component Testing |
+| UI Preview | Code Editor | Component Testing |
 | :---: | :---: | :---: |
 | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-44-47-267_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-44-54-299_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-44-57-878_dn.composeuilab.jpg" width="250"> |
 | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-22-45-38-810_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-23-11-55-180_dn.composeuilab.jpg" width="250"> | <img src="https://github.com/KodTik-Innovations/ComposeUILab-Official/raw/main/demos/Screenshot_2026-01-14-23-12-05-681_dn.composeuilab.jpg" width="250"> |
@@ -48,9 +64,11 @@ Check out the Compose UI Lab in action:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Bug Reports
 
-We welcome contributions! If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
+We welcome contributions! If you encounter a crash or have an idea for a feature:
+1. Check the [Issues](https://github.com/KodTik-Innovations/ComposeUILab-Official/issues) tab.
+2. Provide your **device model** and **Android version** when reporting a bug.
 
 ---
 
