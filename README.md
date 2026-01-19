@@ -64,6 +64,23 @@ Check out the Compose UI Lab in action:
 
 ---
 
+## ❤️ Support & Sponsorship
+
+Building and maintaining an on-device IDE requires significant time and effort. If `Compose UI Lab` has helped you in your development journey, please consider supporting the project to keep the updates coming!
+
+### ☕ Buy Me a Coffee
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME_HERE">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+### 🇮🇳 UPI Support (India)
+For direct contributions via UPI:
+> **UPI ID:** `deenbandhu488@ptyes`
+
+*Your support helps cover server costs and fuels late-night coding sessions!*
+
+---
+
 ## 🤝 Contributing & Bug Reports
 
 We welcome contributions! If you encounter a crash or have an idea for a feature:
