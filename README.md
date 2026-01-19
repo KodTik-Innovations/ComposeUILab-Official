@@ -72,7 +72,7 @@ Building and maintaining an on-device IDE requires significant time and effort. 
 For direct contributions via UPI:
 > **UPI ID:** `deenbandhu488@ptyes`
 
-*Your support helps cover server costs and fuels late-night coding sessions!*
+*Your support motivates me to keep building and fuels late-night coding sessions!*
 
 ---
 
